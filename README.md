@@ -5,6 +5,9 @@ This is a project to compile a list of the different organizations creating free
 ## Governments Producting Free Software
 * Defense Digitial Service's [Code.mil](https://www.code.mil/)
 * U.S. General Services Administration's [Code.gov](code.gov)
+* United Kingdom Digital Service [code](https://github.com/alphagov)
+* United Kingdom Digital Service Operations [code](https://github.com/gds-operations)
+* New Zealand [code](https://github.com/GOVTNZ)
 
 ## Civil Society Groups producing Free Government Software
 * [Connecticut Data Colaborative](http://www.ctdata.org/)
@@ -18,5 +21,5 @@ This is a project to compile a list of the different organizations creating free
 * [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [Guidance Be Open and Use open source](https://www.gov.uk/guidance/be-open-and-use-open-source) November 6th, 2017
 
 * [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) February 26th 2018
-
-[The Digital Service Standard](https://www.gov.uk/service-manual/service-standard)
+* [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [The Digital Service Standard](https://www.gov.uk/service-manual/service-standard)
+    * 8 . [Make all new source code open](https://www.gov.uk/service-manual/service-standard/make-all-new-source-code-open)
