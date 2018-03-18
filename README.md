@@ -8,13 +8,18 @@ This is a project to compile a list of the different organizations creating free
 * United Kingdom Digital Service [code](https://github.com/alphagov)
 * United Kingdom Digital Service Operations [code](https://github.com/gds-operations)
 * New Zealand [code](https://github.com/GOVTNZ)
+* Israel gata.gov.il [code](https://github.com/CIOIL/DataGovIL)
+* [GitHub and Government](https://government.github.com/community/) - List of Government GitHub Accounts
+* U.S. CFPB [Open Tech](https://cfpb.github.io/) ([code](https://github.com/cfpb))
 
 ## Civil Society Groups producing Free Government Software
 * [Connecticut Data Colaborative](http://www.ctdata.org/)
 
-## Government Policies related to Free Software & related Resources
-[Digital 5 Charter](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386290/D5Charter_signed.pdf)
 
+## Government Policies related to Free Software & related Resources
+* [Digital 5 Charter](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386290/D5Charter_signed.pdf)
+* Isreal's [Open Government Action Plan 2018-2019](https://yoursay.gov.il/1008) [English PDF](http://yoursay.gov.il/cio/File/Index/nap3english/)
+* GitHub Government Open Source Resources [Agency Examples](https://government.github.io/best-practices/agency-examples/)
 
 ## United Kingdom
 
