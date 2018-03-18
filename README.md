@@ -11,3 +11,12 @@ This is a project to compile a list of the different organizations creating free
 
 ## Government Policies related to Free Software & related Resources
 [Digital 5 Charter](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386290/D5Charter_signed.pdf)
+
+
+## United Kingdom
+
+* [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [Guidance Be Open and Use open source](https://www.gov.uk/guidance/be-open-and-use-open-source) November 6th, 2017
+
+* [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) February 26th 2018
+
+[The Digital Service Standard](https://www.gov.uk/service-manual/service-standard)
