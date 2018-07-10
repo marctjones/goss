@@ -23,6 +23,7 @@ This is a project to compile a list of the different organizations creating free
 * [Montreal OSS & Open Hardware Policy](https://ville.montreal.qc.ca/pls/portal/docs/PAGE/PRT_VDM_FR/MEDIA/DOCUMENTS/politique_materiel_libres_en.pdf)
 * [France OSS Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/en/)
 * [California Open Source and Code Reuse](http://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.1.pdf)
+* United States Department of Defense [Open Source Software FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/)
 
 ## Government Related Policies
 * GitHub Government Open Source Resources [Agency Examples](https://government.github.io/best-practices/agency-examples/)
