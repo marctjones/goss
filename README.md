@@ -5,7 +5,7 @@ This is a project to compile a list of the different organizations creating free
 ## Suggested Readings for government staff new to Free and Open Source Software
 * How to Choose a License 
     * Department of Defense Open Source Software FAQ, "[What license should the government or contractor choose/select when releasing open source software?](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_What_license_should_the_government_or_contractor_choose.2Fselect_when_releasing_open_source_software.3F)" (6 minutes)
-    * NZGOAL-SE [Paragraph 14 - 15](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/nzgoal-se/nzgoal-se-policy-principles/) (2 minutes)
+    * NZGOAL-SE "Open access and public release of agency software using free and open source licences" [Paragraph 14 - 15](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/nzgoal-se/nzgoal-se-policy-principles/) (2 minutes)
     * MySQL's "[Commercial License for OEMS, ISVs and VARs](https://www.mysql.com/about/legal/licensing/oem/)", Oracle (4 minutes)
     * "[How to choose a license for your own work](https://www.gnu.org/licenses/license-recommendations.html)", Free Software Foundation (8 minutes)
 
