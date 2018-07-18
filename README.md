@@ -21,6 +21,7 @@ This is a project to compile a list of the different organizations creating free
 * Israel gata.gov.il [code](https://github.com/CIOIL/DataGovIL)
 * [GitHub and Government](https://government.github.com/community/) - List of Government GitHub Accounts
 * U.S. CFPB [Open Tech](https://cfpb.github.io/) ([code](https://github.com/cfpb))
+* California [Open Source Portal](https://code.ca.gov/)
 
 ## Civil Society Groups producing Free Government Software
 * [Connecticut Data Colaborative](http://www.ctdata.org/)
