@@ -44,6 +44,18 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
     * [INSTALL.md](https://github.com/NYCComptroller/Checkbook/blob/develop/INSTALL.md)
   * [Managing copyright information within a free software project](https://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html), Software Freedom Law Center (2012)
   * [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guidelines for Developers](https://www.softwarefreedom.org/resources/2007/gpl-non-gpl-collaboration.html), Software Freedom Law Center (2007)
+* Creating a Checklist for reviewing a Contract for FOSS issues
+  * [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+  * Supplement: [GPL Version 3, Ch. 9](https://copyleft.org/guide/comprehensive-gpl-guidech10.html#x13-650009), Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide, Software Freedom Conservancy & Free Software Foundation (2018) (reference only)
+  * Supplement: [GPLv3](https://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html#gplv3), Software Freedom Law Center Guide to GPL Compliance 2nd Ed., Moglen & Choudhary (2014)  (reference only)
+  * Supplement: [Frequently Asked Questions about the GNU Licenses](https://www.gnu.org/licenses/gpl-faq.html), Free Software Foundation  (reference only)
+* Feedback on the Existing RFP Template & Example RFO for FOSS
+  * [Statement of Objectives Template](https://techfarhub.cio.gov/assets/files/DigitalServiceSOO.docx) from the [TechFar Hub](https://techfarhub.cio.gov/)
+  * [Agile Development RFQ Sample](https://techfarhub.cio.gov/assets/files/Agile%20Task%20Order%20Example.docx) from the [TechFAR Hub](https://techfarhub.cio.gov/)
+* How to Use FOSS for Internal Software Development
+* GSPD Updates Related to FOSS
+
+
 ## Governments Produced Free Software Repositories
 * Defense Digitial Service's [Code.mil](https://www.code.mil/)
 * U.S. General Services Administration's [Code.gov](code.gov)
