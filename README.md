@@ -9,8 +9,41 @@ This is a project to compile a list of the different organizations creating free
     * "[How to choose a license for your own work](https://www.gnu.org/licenses/license-recommendations.html)", Free Software Foundation (8 minutes)
     * NZGOAL-SE "Open access and public release of agency software using free and open source licences" [Paragraph 14 - 15](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/nzgoal-se/nzgoal-se-policy-principles/) (2 minutes)
     * NZGOAL-SE "Adaptations" [Paragrpahs 19 - 21](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/nzgoal-se/nzgoal-se-policy-principles/) (2 minutes)
-
-
+* How to include licensing information in a FOSS project
+  * [Managing copyright information within a free software project](https://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html), Software Freedom Law Center (2012) (15 minutes)
+Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guidelines for Developers](https://www.softwarefreedom.org/resources/2007/gpl-non-gpl-collaboration.html), Software Freedom Law Center (2007)
+* Designing an RFP
+  * [Veterans Benefits Administration (VBA) Salesforce Center of Excellence, User-Centered Design Challenge](https://techfarhub.cio.gov/learning-center/case-studies/vba-salesforce-coe), TechFAR Hub
+  * Review the [Templates](https://techfarhub.cio.gov/learning-center/templates/) from the TechFAR Hub
+* FOSS Community Software Development Best Practices
+  * The [Table of Contents](https://producingoss.com/en/index.html) of Producing Open Source Software
+  * [Core Infrastructure Initiative Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge/blob/master/README.md#core-infrastructure-initiative-best-practices-badge)
+* Legal Review for a FOSS Agreement/Issue Spotting
+  * [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+  * The following selected Answers from the Free Software Foundation's Frequently Asked Questions about the GNU Licenses
+    * [Who has the power to enforce the GPL?](https://www.gnu.org/licenses/gpl-faq.html#WhoHasThePower)
+    * [Does the GPL allow me to distribute copies under a nondisclosure agreement?](https://www.gnu.org/licenses/gpl-faq.html#DoesTheGPLAllowModNDA)
+    * [Does the GPL allow me to develop a modified version under a nondisclosure agreement?](https://www.gnu.org/licenses/gpl-faq.html#DevelopChangesUnderNDA)
+    * [Does the GPL allow me to add terms that would require citation or acknowledgment in research papers which use the GPL-covered software or its output?](https://www.gnu.org/licenses/gpl-faq.html#RequireCitation)
+    * [I would like to release a program I wrote under the GNU GPL, but I would like to use the same code in nonfree programs.](https://www.gnu.org/licenses/gpl-faq.html#ReleaseUnderGPLAndNF) 
+    * [Is the developer of a GPL-covered program bound by the GPL? Could the developer's actions ever be a violation of the GPL?](https://www.gnu.org/licenses/gpl-faq.html#DeveloperViolate)
+    * [What does it mean to say that two licenses are “compatible”?](https://www.gnu.org/licenses/gpl-faq.html#WhatIsCompatible)
+* Open Source Licensing for Developers
+  * A Legal Issues Primer for Open Source and Free Software Projects
+    * [Introduction](https://www.softwarefreedom.org/resources/2008/foss-primer.html#x1-30001)
+    * [Common Copyright Questions](https://www.softwarefreedom.org/resources/2008/foss-primer.html#x1-40002)
+* Designing a Contract
+* Assessing Open Sourcing a Project
+* Lessons Learned from the Federal Source Code Policy
+  * [Federal Source Code Policy](https://sourcecode.cio.gov/)
+* Best Practices for Deliverables
+  * [Best Practices Criteria for Free/Libre and Open Source Software (FLOSS)](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md), Core Infrastructure Initiative, Linux Foundation 
+    * [CONTRIBUTING.md](https://github.com/coreinfrastructure/best-practices-badge/blob/master/CONTRIBUTING.md)
+  * Checkbook NYC
+    * [README](https://github.com/NYCComptroller/Checkbook)
+    * [INSTALL.md](https://github.com/NYCComptroller/Checkbook/blob/develop/INSTALL.md)
+  * [Managing copyright information within a free software project](https://www.softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html), Software Freedom Law Center (2012)
+  * [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guidelines for Developers](https://www.softwarefreedom.org/resources/2007/gpl-non-gpl-collaboration.html), Software Freedom Law Center (2007)
 ## Governments Produced Free Software Repositories
 * Defense Digitial Service's [Code.mil](https://www.code.mil/)
 * U.S. General Services Administration's [Code.gov](code.gov)
