@@ -91,3 +91,6 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
 * [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) February 26th 2018
 * [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), [The Digital Service Standard](https://www.gov.uk/service-manual/service-standard)
     * 8 . [Make all new source code open](https://www.gov.uk/service-manual/service-standard/make-all-new-source-code-open)
+
+# State and National Open Data Policies
+* Connecticut [Data Plan](https://portal.ct.gov/CTData) [Statute](https://www.cga.ct.gov/2018/ACT/pa/2018PA-00175-R00HB-05517-PA.htm)
