@@ -93,4 +93,5 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
     * 8 . [Make all new source code open](https://www.gov.uk/service-manual/service-standard/make-all-new-source-code-open)
 
 # State and National Open Data Policies
+* Colorado [Data Plan](https://drive.google.com/file/d/1Zagr7fIppy8085fmKZcUS4XnQ0BYaNSk/view)
 * Connecticut [Data Plan](https://portal.ct.gov/CTData) [Statute](https://www.cga.ct.gov/2018/ACT/pa/2018PA-00175-R00HB-05517-PA.htm)
