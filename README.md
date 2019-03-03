@@ -79,7 +79,7 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
 * [France OSS Contribution Policy](https://disic.github.io/politique-de-contribution-open-source/en/)
 * [California Open Source and Code Reuse](http://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.1.pdf)
 * United States Department of Defense [Open Source Software FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/)
-
+* United States IRS Safeguards Technical Assistance Memorandum [Use of FTI in Open Source Software](https://www.irs.gov/pub/irs-utl/fti-in-opensourcesoftware.doc)
 ## Government Related Policies
 * GitHub Government Open Source Resources [Agency Examples](https://government.github.io/best-practices/agency-examples/)
 
@@ -104,3 +104,11 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
 * [IRS Revenue Ruling 201505040](https://www.irs.gov/pub/irs-wd/201505040.pdf) (rebust denial of multiple rationals including government purpose)
 * [IRS Revenue Ruling 201329021](https://www.irs.gov/pub/irs-wd/1329021.pdf)
 * [IRS Revenue Ruling 201303018](https://www.irs.gov/pub/irs-wd/1303018.pdf)
+* [IRS Revenue Ruling 201507025](https://www.irs.gov/pub/irs-wd/201507025.pdf) (denied 501(c)(4))
+* [IRS Revenue Ruling 201808019](https://www.irs.gov/pub/irs-wd/201808019.pdf)
+* [IRS Revenue Ruling 201345030](https://www.irs.gov/pub/irs-wd/1345030.pdf)
+* [IRS Revenue Ruling 201420021](https://www.irs.gov/pub/irs-wd/1420021.pdf)
+* [IRS Revenue Ruling 201405024](https://www.irs.gov/pub/irs-wd/1405024.pdf)
+* [IRS Revenue Ruling Nov 13, 2000](https://www.irs.gov/pub/irs-lafa/den0755r.pdf)
+
+
