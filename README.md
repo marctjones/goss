@@ -99,3 +99,5 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
 ## Cases and Rulings
 
 * [IRS Revenue Ruling 201717048](https://www.irs.gov/pub/irs-wd/201717048.pdf)
+* [IRS Revenue Ruling 201720010](https://www.irs.gov/pub/irs-wd/201720010.pdf) (charing fee for services destroyed charitable nature of open source nonprofit)
+* 
