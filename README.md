@@ -100,4 +100,7 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
 
 * [IRS Revenue Ruling 201717048](https://www.irs.gov/pub/irs-wd/201717048.pdf)
 * [IRS Revenue Ruling 201720010](https://www.irs.gov/pub/irs-wd/201720010.pdf) (charing fee for services destroyed charitable nature of open source nonprofit)
-* 
+* [IRS Revenue Ruling 201533014](https://www.irs.gov/pub/irs-wd/201533014.pdf) (merelying providing open source software is not a charitable purpose)
+* [IRS Revenue Ruling 201505040](https://www.irs.gov/pub/irs-wd/201505040.pdf) (rebust denial of multiple rationals including government purpose)
+* [IRS Revenue Ruling 201329021](https://www.irs.gov/pub/irs-wd/1329021.pdf)
+* [IRS Revenue Ruling 201303018](https://www.irs.gov/pub/irs-wd/1303018.pdf)
