@@ -95,3 +95,7 @@ Optional: [Maintaining Permissive-Licensed Files in a GPL-Licensed Project: Guid
 # State and National Open Data Policies
 * Colorado [Data Plan](https://drive.google.com/file/d/1Zagr7fIppy8085fmKZcUS4XnQ0BYaNSk/view)
 * Connecticut [Data Plan](https://portal.ct.gov/CTData) [Statute](https://www.cga.ct.gov/2018/ACT/pa/2018PA-00175-R00HB-05517-PA.htm)
+
+## Cases and Rulings
+
+* [IRS Revenue Ruling 201717048](https://www.irs.gov/pub/irs-wd/201717048.pdf)
